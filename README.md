@@ -1,2 +1,3 @@
-# pradeepkumarrai.github.io
-Experiments with Github Pages for personal website
+# About Me
+
+A Software Developer with 5+ years full-stack java, mean-stack, AWS & Android experience building enterprise web solutions & micro-services.
