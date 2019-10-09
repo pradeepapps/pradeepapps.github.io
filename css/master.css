@@ -82,7 +82,7 @@ body {
     z-index: 1;
     padding: 3rem 2rem;
     max-width: 100%;
-    width: 50rem;
+    width: 80rem;
     padding-top: 0; }
 
 .image {
@@ -97,7 +97,7 @@ body {
     width: 100%;
     max-width: 100%;
     display: inline-block;
-    width: 100vw; }
+    width: 200vw; }
 
 h1 {
   color: #4F5C63;
